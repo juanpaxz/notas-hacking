@@ -9,7 +9,7 @@ para este ejercicio utilice el hex editor para poder decodificar la imagan dada 
 RESPUESTA
 
 ```
-picoCTF{more_than_m33ts_the_3y33dd2eEF5}
+picoCTF{more_than_m33ts_the_3y3657BaB2C}
 ```
 
 

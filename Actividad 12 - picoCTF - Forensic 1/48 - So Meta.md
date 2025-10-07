@@ -9,7 +9,7 @@ para este ejercicio utilice exiftool, una herramienta que me ayuda a inspecciona
 RESPUESTA
 
 ```
-picoCTF{more_than_m33ts_the_3y33dd2eEF5}
+picoCTF{s0_m3ta_d8944929}
 ```
 
 
