@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Examen Parcial/10. Specialer.md",
+                "file": "Actividad 12 - picoCTF - Forensic 1/47 - Glory of the Garden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Specialer"
+              "title": "47 - Glory of the Garden"
             }
           }
         ],
@@ -198,10 +198,25 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "834e673ea691404e",
+  "active": "36fbd0da902afb28",
   "lastOpenFiles": [
-    "Primer Examen Parcial/9. SansAlpha.md",
+    "Actividad 12 - picoCTF - Forensic 2/63 - WhitePages.md",
+    "Actividad 12 - picoCTF - Forensic 2/66 - shark on wire 2.md",
+    "Actividad 12 - picoCTF - Forensic 2/62 - M00nwalk.md",
+    "Actividad 12 - picoCTF - Forensic 2/65 - like 1000.md",
+    "Actividad 12 - picoCTF - Forensic 2/64 - c0rrupt.md",
+    "Actividad 12 - picoCTF - Forensic 1/49 - shark on wire 1.md",
+    "Actividad 12 - picoCTF - Forensic 2/48 - So Meta (1).md",
+    "Actividad 12 - picoCTF - Forensic 1/47 - Glory of the Garden.md",
+    "Actividad 12 - picoCTF - Forensic 2/47 - Glory of the Garden (1).md",
+    "Actividad 12 - picoCTF - Forensic 1/50 - extensions.md",
+    "Actividad 12 - picoCTF - Forensic 2/49 - shark on wire 1 (1).md",
+    "Actividad 12 - picoCTF - Forensic 1/48 - So Meta.md",
     "Primer Examen Parcial/10. Specialer.md",
+    "Actividad 12 - picoCTF - Forensic 2/51 - What Lies Whitin (1).md",
+    "Actividad 12 - picoCTF - Forensic 2/50 - extensions (1).md",
+    "Actividad 12 - picoCTF - Forensic 2",
+    "Primer Examen Parcial/9. SansAlpha.md",
     "Primer Examen Parcial/8. flag_shop.md",
     "Primer Examen Parcial/7. dont-you-love-banners.md",
     "Primer Examen Parcial/6. Rust fixme 3.md",
@@ -212,29 +227,14 @@
     "Primer Examen Parcial/12.Cookie Monster Secret Recipe.md",
     "Primer Examen Parcial/4. Rust fixme 1.md",
     "Primer Examen Parcial/17.SSTI2.md",
-    "Primer Examen Parcial/16.SQL Direct.md",
-    "Primer Examen Parcial/15.Java Code Analysis.md",
-    "Primer Examen Parcial/14.findme.md",
-    "Primer Examen Parcial/13.SSTI1.md",
-    "Primer Examen Parcial/1. FANTASY CTF.md",
-    "Tarea 2 - Web/Inspect HTML.md",
-    "Actividad 12 - picoCTF - Forensic 1/47 - Glory of the Garden -t.md",
     "Primer Examen Parcial",
-    "Actividad 12 - picoCTF - Forensic 1/48 - So Meta.md",
-    "Actividad 12 - picoCTF - Forensic 1/51 - What Lies Whitin.md",
-    "Actividad 12 - picoCTF - Forensic 1/50 - extensions.md",
-    "Actividad 12 - picoCTF - Forensic 1/49 - shark on wire 1.md",
     "Actividad 12 - picoCTF - Forensic 1",
     "Tarea 2 - Web.zip",
-    "Tarea 2 - Web/WebDecode.md",
-    "Tarea 2 - Web/Power Cookie.md",
-    "Tarea 2 - Web/SQLiLite.md",
     "Primer Parcial - Parte 2 - Web",
     "Primer Parcial - Parte 1 - General Skills",
     "Tarea 2 - Web",
     "Actividad 11 - picoCTF Web - Parte 4",
     "Actividad 10 - picoCTF Web 3",
-    "Actividad 09 - picoCTF Web 2",
-    "Actividad 08- picoCTF Web 1"
+    "Actividad 09 - picoCTF Web 2"
   ]
 }
