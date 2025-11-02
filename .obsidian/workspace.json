@@ -62,9 +62,65 @@
               "icon": "lucide-file",
               "title": "rsa-pop-quiz"
             }
+          },
+          {
+            "id": "87553c7f11373037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tarea 3 - Forensic/Secret of the Polyglot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Secret of the Polyglot"
+            }
+          },
+          {
+            "id": "fd9c9e1207bbb0f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tarea 3 - Forensic/flags are stepic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "flags are stepic"
+            }
+          },
+          {
+            "id": "1c377f391d4be175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tarea 3 - Forensic/Redaction gone wrong.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redaction gone wrong"
+            }
+          },
+          {
+            "id": "ad643cc555114f67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tarea 3 - Forensic/Ph4nt0m 1ntrud3r.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ph4nt0m 1ntrud3r"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -212,10 +268,21 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "3d908cd0b5341296",
+  "active": "ad643cc555114f67",
   "lastOpenFiles": [
-    "crypto 1/waves over lambda.md",
+    "Tarea 3 - Forensic/RED.md",
+    "Tarea 3 - Forensic/Secret of the Polyglot.md",
+    "Tarea 3 - Forensic/Scan Surprise.md",
+    "Tarea 3 - Forensic/hideme.md",
+    "Tarea 3 - Forensic/Redaction gone wrong.md",
+    "Tarea 3 - Forensic/St3g0.md",
+    "Tarea 3 - Forensic/information.md",
+    "Tarea 3 - Forensic/CanYouSee.md",
+    "Tarea 3 - Forensic/flags are stepic.md",
+    "Tarea 3 - Forensic/Ph4nt0m 1ntrud3r.md",
     "crypto 2/rsa-pop-quiz.md",
+    "Tarea 3 - Forensic",
+    "crypto 1/waves over lambda.md",
     "crypto 2",
     "crypto 1/Tapping.md",
     "crypto 1/la cifra de.md",
@@ -232,23 +299,12 @@
     "Actividad 15 -  picoCTF - Forensic 4/Disk, disk, sleuth!.md",
     "Actividad 15 -  picoCTF - Forensic 4/Operation Oni.md",
     "Actividad 14 - picoCTF Forensic 3/WebNet0.md",
-    "Actividad 14 - picoCTF Forensic 3/MacroHard WeakEdge.md",
-    "Actividad 14 - picoCTF Forensic 3/Matryoshka doll.md",
     "Actividad 15 -  picoCTF - Forensic 4",
-    "Actividad 14 - picoCTF Forensic 3/tunn3l v1s10n.md",
-    "Actividad 14 - picoCTF Forensic 3/WebNet1.md",
-    "Actividad 12 - picoCTF - Forensic 1/47 - Glory of the Garden.md",
     "Actividad 14 - picoCTF Forensic 3",
     "Sin nombre",
-    "Actividad 12 - picoCTF - Forensic 2/63 - WhitePages.md",
-    "Actividad 12 - picoCTF - Forensic 2/66 - shark on wire 2.md",
-    "Actividad 12 - picoCTF - Forensic 2/62 - M00nwalk.md",
-    "Actividad 12 - picoCTF - Forensic 2/65 - like 1000.md",
-    "Actividad 12 - picoCTF - Forensic 2/64 - c0rrupt.md",
     "Actividad 12 - picoCTF - Forensic 2",
     "Primer Examen Parcial",
     "Actividad 12 - picoCTF - Forensic 1",
-    "Tarea 2 - Web.zip",
-    "Primer Parcial - Parte 2 - Web"
+    "Tarea 2 - Web.zip"
   ]
 }
