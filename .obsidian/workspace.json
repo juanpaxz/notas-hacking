@@ -111,16 +111,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarea 3 - Forensic/Ph4nt0m 1ntrud3r.md",
+                "file": "Tarea 3 - Forensic/flags are stepic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ph4nt0m 1ntrud3r"
+              "title": "flags are stepic"
+            }
+          },
+          {
+            "id": "2ba367887a6803b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto 3/Mind your Ps and Qs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mind your Ps and Qs"
+            }
+          },
+          {
+            "id": "a73c77ed26a1fcc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto 3/b00tl3gRSA2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "b00tl3gRSA2"
+            }
+          },
+          {
+            "id": "eb388d7c2732369a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto 3/b00tl3gRSA3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "b00tl3gRSA3"
+            }
+          },
+          {
+            "id": "7087938942a8941b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto 3/b00tl3gRSA2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "b00tl3gRSA2"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -268,18 +324,23 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "ad643cc555114f67",
+  "active": "7087938942a8941b",
   "lastOpenFiles": [
-    "Tarea 3 - Forensic/RED.md",
+    "Crypto 3/b00tl3gRSA3.md",
+    "Crypto 3/miniRSA.md",
+    "Crypto 3/Mind your Ps and Qs.md",
+    "Crypto 3/b00tl3gRSA2.md",
+    "Tarea 3 - Forensic/flags are stepic.md",
+    "Crypto 3",
     "Tarea 3 - Forensic/Secret of the Polyglot.md",
     "Tarea 3 - Forensic/Scan Surprise.md",
-    "Tarea 3 - Forensic/hideme.md",
     "Tarea 3 - Forensic/Redaction gone wrong.md",
+    "Tarea 3 - Forensic/Ph4nt0m 1ntrud3r.md",
+    "Tarea 3 - Forensic/RED.md",
+    "Tarea 3 - Forensic/hideme.md",
     "Tarea 3 - Forensic/St3g0.md",
     "Tarea 3 - Forensic/information.md",
     "Tarea 3 - Forensic/CanYouSee.md",
-    "Tarea 3 - Forensic/flags are stepic.md",
-    "Tarea 3 - Forensic/Ph4nt0m 1ntrud3r.md",
     "crypto 2/rsa-pop-quiz.md",
     "Tarea 3 - Forensic",
     "crypto 1/waves over lambda.md",
@@ -295,16 +356,11 @@
     "crypto 1",
     "Actividad 15 -  picoCTF - Forensic 4/Sleuthkit Apprentice.md",
     "Actividad 15 -  picoCTF - Forensic 4/Operation Orchid.md",
-    "Actividad 15 -  picoCTF - Forensic 4/Milkslap.md",
-    "Actividad 15 -  picoCTF - Forensic 4/Disk, disk, sleuth!.md",
-    "Actividad 15 -  picoCTF - Forensic 4/Operation Oni.md",
-    "Actividad 14 - picoCTF Forensic 3/WebNet0.md",
     "Actividad 15 -  picoCTF - Forensic 4",
     "Actividad 14 - picoCTF Forensic 3",
     "Sin nombre",
     "Actividad 12 - picoCTF - Forensic 2",
     "Primer Examen Parcial",
-    "Actividad 12 - picoCTF - Forensic 1",
-    "Tarea 2 - Web.zip"
+    "Actividad 12 - picoCTF - Forensic 1"
   ]
 }
