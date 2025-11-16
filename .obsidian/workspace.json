@@ -4,207 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e8ff3c8026782d4d",
+        "id": "42c58f5991c4357b",
         "type": "tabs",
         "children": [
           {
-            "id": "8e103ba5a05849ea",
+            "id": "b9e05745f8c8e7cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 12 - picoCTF - Forensic 1/47 - Glory of the Garden -t.md",
+                "file": "Tarea 4 - Crypto/rail-fence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "47 - Glory of the Garden -t"
+              "title": "rail-fence"
             }
           },
           {
-            "id": "d3e9ddd21ced368b",
+            "id": "b507c62f283ebc28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Examen Parcial/14.findme.md",
+                "file": "Tarea 4 - Crypto/Vigenere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14.findme"
-            }
-          },
-          {
-            "id": "834e673ea691404e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "crypto 1/Tapping.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tapping"
-            }
-          },
-          {
-            "id": "3d908cd0b5341296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "crypto 2/rsa-pop-quiz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "rsa-pop-quiz"
-            }
-          },
-          {
-            "id": "87553c7f11373037",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tarea 3 - Forensic/Secret of the Polyglot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Secret of the Polyglot"
-            }
-          },
-          {
-            "id": "fd9c9e1207bbb0f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tarea 3 - Forensic/flags are stepic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "flags are stepic"
-            }
-          },
-          {
-            "id": "1c377f391d4be175",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tarea 3 - Forensic/Redaction gone wrong.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redaction gone wrong"
-            }
-          },
-          {
-            "id": "ad643cc555114f67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tarea 3 - Forensic/flags are stepic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "flags are stepic"
-            }
-          },
-          {
-            "id": "2ba367887a6803b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crypto 3/Mind your Ps and Qs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mind your Ps and Qs"
-            }
-          },
-          {
-            "id": "a73c77ed26a1fcc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crypto 3/b00tl3gRSA2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "b00tl3gRSA2"
-            }
-          },
-          {
-            "id": "eb388d7c2732369a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crypto 3/b00tl3gRSA3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "b00tl3gRSA3"
-            }
-          },
-          {
-            "id": "7087938942a8941b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crypto 2/rsa-pop-quiz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "rsa-pop-quiz"
-            }
-          },
-          {
-            "id": "98125032c57905b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crypto 4/Flags.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Flags"
-            }
-          },
-          {
-            "id": "71fcdeb67178218c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crypto 4/ReadMyCert.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ReadMyCert"
+              "title": "Vigenere"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -352,43 +184,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "71fcdeb67178218c",
+  "active": "b507c62f283ebc28",
   "lastOpenFiles": [
+    "Tarea 4 - Crypto/substitution2.md",
+    "Tarea 4 - Crypto/substitution1.md",
+    "Tarea 4 - Crypto/substitution0.md",
+    "Tarea 4 - Crypto/rail-fence.md",
+    "Tarea 4 - Crypto/morse-code.md",
+    "Tarea 4 - Crypto/credstuff.md",
+    "Tarea 4 - Crypto/Crack the Power.md",
+    "Tarea 4 - Crypto/EVEN RSA CAN BE BROKEN.md",
+    "Reversing - Parte 1/vault-door-3.md",
+    "Reversing - Parte 2/Safe Opener.md",
+    "Reversing - Parte 1/vault-door-5.md",
+    "Reversing - Parte 2/timer.md",
+    "Reversing - Parte 2/Safe Opener 2.md",
+    "Reversing - Parte 2/Picker IV.md",
+    "Reversing - Parte 2/Picker III.md",
+    "Reversing - Parte 2/Picker II.md",
+    "Reversing - Parte 2/Picker I.md",
+    "Reversing - Parte 1/vault-door-training.md",
+    "Reversing - Parte 1/vault-door-1.md",
+    "Tarea 4 - Crypto/Vigenere.md",
+    "Tarea 3 - Forensic/CanYouSee.md",
+    "Bienvenido.md",
+    "Crypto 4/basic-mod1.md",
+    "Reversing - Parte 2",
+    "Reversing - Parte 1",
+    "Tarea 4 - Crypto",
+    "Crypto 4/ReadMyCert.md",
     "Crypto 4/Pixelated.md",
     "Crypto 4/HideToSee.md",
-    "Crypto 4/Flags.md",
-    "Crypto 4/basic-mod1.md",
-    "Crypto 4/ReadMyCert.md",
-    "Crypto 2/rsa-pop-quiz.md",
-    "Crypto 3/b00tl3gRSA2.md",
     "Crypto 4",
-    "Crypto 3/b00tl3gRSA3.md",
-    "Crypto 3/miniRSA.md",
-    "Crypto 3/Mind your Ps and Qs.md",
-    "Tarea 3 - Forensic/flags are stepic.md",
     "Crypto 3",
-    "Tarea 3 - Forensic/Secret of the Polyglot.md",
-    "Tarea 3 - Forensic/Scan Surprise.md",
-    "Tarea 3 - Forensic/Redaction gone wrong.md",
-    "Tarea 3 - Forensic/Ph4nt0m 1ntrud3r.md",
-    "Tarea 3 - Forensic/RED.md",
-    "Tarea 3 - Forensic/hideme.md",
-    "Tarea 3 - Forensic/St3g0.md",
-    "Tarea 3 - Forensic/information.md",
-    "Tarea 3 - Forensic/CanYouSee.md",
     "Tarea 3 - Forensic",
-    "Crypto 1/waves over lambda.md",
     "Crypto 2",
-    "Crypto 1/Tapping.md",
-    "Crypto 1/la cifra de.md",
-    "Crypto 1/caesar.md",
-    "Crypto 1/Easy 1.md",
-    "Crypto 1/The Numbers.md",
     "Crypto 1",
     "Actividad 15 -  picoCTF - Forensic 4",
-    "Actividad 14 - picoCTF Forensic 3",
-    "Sin nombre",
-    "Actividad 12 - picoCTF - Forensic 2",
-    "Primer Examen Parcial"
+    "Actividad 14 - picoCTF Forensic 3"
   ]
 }
